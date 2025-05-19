@@ -10,7 +10,7 @@ On the programming side, I love coding hobby projects here and there. I use Pyth
 My personal website (in progress) can be found [here](https://rootware.github.io/).
 
 ## ⭐ Selected Projects from my personal website
-- Interpreting convolutional neural networks and using them as a variational quantum algorithm for qubit systems [paper](https://arxiv.org/abs/2210.00692)
+- Interpreting convolutional neural networks and using them as a variational quantum algorithm for qubit systems [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013094)
 - Using reinforcement learning to optimize design of quantum sensors and circuits [Sample Github 1](https://github.com/rootware/lattice_evolution),  [Sample Github 2](https://github.com/rootware/BayesianData) used for the [paper](https://arxiv.org/abs/2405.07907).
 - Playing around with Rust and C++ interfacing, since the RL used for my publications is in C++ and the physics simulations are usually in Rust.
 - Implementing my own custom DDQN in Rust using the Burh API. Goal is to make physics informed RL in Rust for my Rust physics projects (ongoing project) [Github](https://github.com/rootware/Reinforcement_Learning_DQN_using_Burn)
